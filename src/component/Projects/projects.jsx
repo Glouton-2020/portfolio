@@ -141,7 +141,8 @@ export default class Projects extends React.Component {
 							<div className="modal-bottom">
 							<a
 									href="https://crud-crm-project-2.herokuapp.com/crm"
-									target="_blank">
+									target="_blank"
+									rel="noopener noreferrer">
 									<h3>Check out my CRM</h3>
 								</a>
 								<p
@@ -177,7 +178,6 @@ export default class Projects extends React.Component {
 							<div className="modal-description">
 								<div className="modal-paragraph">
 								A team built full-stack MERN website, functional and interactive.
-								We wanted to build an app that would eventually create a community for budding coders to store, retrieve, search, comment, and share blocks of code. The app borders between an educational assistant and code management system.
 								The objective of Codesk is to simplify the life programmers by organizing, sharing, understanding, and discussing any past, present or future code submitted to the app.
 								The Codesk app gives you the opportunity to learn by reviewing other users code and making it easy to access past submissions.
 								</div>
@@ -202,7 +202,8 @@ export default class Projects extends React.Component {
 							<div className="modal-bottom">
 								<a
 									href="https://group-5-codesk.herokuapp.com/"
-									target="_blank">
+									target="_blank" 
+									rel="noopener noreferrer">
 									<h3>Save your code in Codesk today!</h3>
 								</a>
 								<p
@@ -253,7 +254,7 @@ export default class Projects extends React.Component {
 							<br/>
 							<div className="modal-bottom">
 								<a href="https://glouton-2020.github.io/" 
-								target="_blank">
+								target="_blank" rel="noopener noreferrer">
 									<h3>How many rounds can you last?</h3>
 								</a>
 								<p

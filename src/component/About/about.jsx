@@ -37,7 +37,7 @@ export default class About extends React.Component {
 							"col-6 col-sm-6 col-md-3 " + this.props.fadeInRight
 						}>
 						<img src={""} alt=""/>
-						<h4>...update required</h4>
+						<h4>...Updates Pending</h4>
 					</div>
 				</div>
 
