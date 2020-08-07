@@ -7,7 +7,6 @@ class Footer extends React.Component {
 				<div className="container">
 					<h5 className="pt-4">2020 &copy; Benjamin Glouton | Portfolio #1 </h5>
 					<h6> Do Better, Who Better? </h6>
-					<h6> - 6LACK </h6>
 				</div>
 			</div>
 		);

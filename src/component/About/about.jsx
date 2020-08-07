@@ -1,5 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
+import berries from "./img/berries.jpg";
+
+
 
 export default class About extends React.Component {
 	render() {
@@ -7,8 +10,8 @@ export default class About extends React.Component {
 			<div
 				id="about-container"
 				className="content-containers container text-center mt-5">
-				<h1 id="about" className={this.props.bounceLeft}>
-					About Me
+				<h1 id="about">
+					A B O U T _ M E
 				</h1>
 				<div className="row mt-5">
 					<div
@@ -16,28 +19,28 @@ export default class About extends React.Component {
 							"col-6 col-sm-6 col-md-3 " + this.props.fadeInLeft
 						}>
 						<img src={""} alt=""/>
-						<h4>Marketer</h4>
+						<h4>MARKETING</h4>
 					</div>
 					<div
 						className={
 							"col-6 col-sm-6 col-md-3 " + this.props.fadeInLeft
 						}>
 						<img src={""} alt=""/>
-						<h4>Software Engineer</h4>
+						<h4>SOFTWARE ENGINEER</h4>
 					</div>
 					<div
 						className={
 							"col-6 col-sm-6 col-md-3 " + this.props.fadeInRight
 						}>
 						<img src={""} alt=""/>
-						<h4>Digital Artist</h4>
+						<h4>OTAKU</h4>
 					</div>
 					<div
 						className={
 							"col-6 col-sm-6 col-md-3 " + this.props.fadeInRight
 						}>
 						<img src={""} alt=""/>
-						<h4>...Updates Pending</h4>
+						<h4>...LOADING</h4>
 					</div>
 				</div>
 
@@ -53,14 +56,15 @@ export default class About extends React.Component {
 								width: 250 + "px"
 							}}
 						/>
+						<img src={berries} alt=""/>
 						<p className={"mytext pt-3 " + this.props.fadeIn}>
 							Unifying a fiery passion for B2B Marketing <br/>
 							and Full-stack software development. <br/>
 							<br/>
-							27 years experience in the game of Life. <br/>
-							Raised by the 90's, baby! <br/>
+							27 Years <br/>
+							Raised by 90's culture! <br/>
 							<br/>
-							I seek my next challenge for innovation and leadership. 
+							Seeking a role in innovation and leadership. 
 						</p>
 					</div>
 					<div

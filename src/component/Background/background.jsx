@@ -18,10 +18,12 @@ export default class Background extends React.Component {
 					<h1>
 						MARKETING DIRECTOR
 						<br />
-						BORN IN LDN, LIVING IN NYC
+						<small>from</small>_ 
+						LDN _ 
+						<small>inhabit</small> _ 
+						NYC
 						<br />
 						<br />
-						"AGE LIKE A FINE WINE"
 					</h1>
 					<h6>
 						- Benjamin Glouton
@@ -39,7 +41,7 @@ export default class Background extends React.Component {
 								behavior: "smooth"
 							});
 						}}>
-						WE ALL SCROLL DOWN ↓
+						SCROLL DOWN ↓
 					</button>
 				</div>
 			</div>

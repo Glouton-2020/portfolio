@@ -78,15 +78,15 @@ export default class Contact extends React.Component {
 				<div class="col-md-6">
 					<div class="title-box-2 pt-4 pt-md-0">
 						<h5 class="title-left">
-							Claim your reward
+							Power of Friendship
 						</h5>
 				</div>
 					</div>
 					<div class="more-info">
 						< p class="lead">
-							Huzzah, you found me! 
+							Hey Bud! 
 							<br/>
-							Send me a message and let our circles of life collide. 
+							Send Me a Message. 
 						</p>
 					</div>
 					<div class="socials">
