@@ -59,7 +59,7 @@ export default class About extends React.Component {
 						<img src={berries} alt=""/>
 						<p className={"mytext pt-3 " + this.props.fadeIn}>
 							Unifying a fiery passion for B2B Marketing <br/>
-							and Full-stack software development. <br/>
+							with Full-stack software development. <br/>
 							<br/>
 							27 Years <br/>
 							Raised by 90's culture! <br/>
